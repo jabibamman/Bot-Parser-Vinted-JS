@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/blob/master/logo.png">
+  <a href="https://github.com/jabibamman/Bot-Parser-Vinted-JS/blob/master/logo.png">
     <img src="logo.png" alt="Logo" width="180" height="180">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Ce projet à été réalisé dans le cadre d'un loisir et la volonté de rendre gratuit ce que certains vendent des dizaines d'euros. C'est un BOT discord permettant de transformer un url vinted en url utilisant l'api vinted.
     <br />
-    <a href="https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS"><strong>Explorer la documentation »</strong></a>
+    <a href="https://github.com/jabibamman/Bot-Parser-Vinted-JS"><strong>Explorer la documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS">Démonstration</a>
+    <a href="https://github.com/jabibamman/Bot-Parser-Vinted-JS">Démonstration</a>
     ·
-    <a href="https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/issues">Signaler un Bug</a>
+    <a href="https://github.com/jabibamman/Bot-Parser-Vinted-JS/issues">Signaler un Bug</a>
     ·
-    <a href="https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/issues">Demander des fonctionalitées </a>
+    <a href="https://github.com/jabibamman/Bot-Parser-Vinted-JS/issues">Demander des fonctionalitées </a>
   </p>
 </div>
 
@@ -96,7 +96,7 @@ Installer la dernière version de DiscordJS si ce n'est pas déjà fait :
 
 1. Cloner le repo Git
    ```sh
-   git clone https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS.git
+   git clone https://github.com/jabibamman/Bot-Parser-Vinted-JS.git
    ```
 
    ***Si vous souhaitez ne pas mettre autant de marque, laissez la case vide " ".**<br>
@@ -120,11 +120,11 @@ Pour faire des recherches sur des marques comportant des espaces ex 'The North F
 
 
 
-Pour plus d'exemples, veuillez vous référer à la [Documentation](https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/wiki).
+Pour plus d'exemples, veuillez vous référer à la [Documentation](https://github.com/jabibamman/Bot-Parser-Vinted-JS/wiki).
 
 <p align="right">(<a href="#top">retourner en haut</a>)</p>
 
-Voir les [problèmes ouverts](https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/issues) pour une liste complète des fonctionnalités proposées (et des problèmes connus).
+Voir les [problèmes ouverts](https://github.com/jabibamman/Bot-Parser-Vinted-JS/issues) pour une liste complète des fonctionnalités proposées (et des problèmes connus).
 
 <p align="right">(<a href="#top">retourner en haut</a>)</p>
 
@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 James - [Linkedin](https://fr.linkedin.com/in/jamesabib) - james.abibamman@gmail.com
 - [Portfolio](https://abib-james.fr)
 
-Project Link: [https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS](https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS)
+Project Link: [https://github.com/jabibamman/Bot-Parser-Vinted-JS](https://github.com/jabibamman/Bot-Parser-Vinted-JS)
 
 <p align="right">(<a href="#top">retourner en haut</a>)</p>
 
@@ -176,25 +176,25 @@ Project Link: [https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS](https://g
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/jabibamman/Bot-Vinted-URL-PARSER-JS.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jabibamman/Bot-Parser-Vinted-JS.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/graphs/contributors
+[contributors-url]: https://github.com/jabibamman/Bot-Parser-Vinted-JS/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/jabibamman/Bot-Vinted-URL-PARSER-JS.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jabibamman/Bot-Parser-Vinted-JS.svg?style=for-the-badge
 
-[forks-url]: https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/network/members
+[forks-url]: https://github.com/jabibamman/Bot-Parser-Vinted-JS/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/jabibamman/Bot-Vinted-URL-PARSER-JS.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jabibamman/Bot-Parser-Vinted-JS.svg?style=for-the-badge
 
-[stars-url]: https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/stargazers
+[stars-url]: https://github.com/jabibamman/Bot-Parser-Vinted-JS/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/jabibamman/Bot-Vinted-URL-PARSER-JS.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jabibamman/Bot-Parser-Vinted-JS.svg?style=for-the-badge
 
-[issues-url]: https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/issues
+[issues-url]: https://github.com/jabibamman/Bot-Parser-Vinted-JS/issues
 
-[license-shield]: https://img.shields.io/github/license/jabibamman/Bot-Vinted-URL-PARSER-JS.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jabibamman/Bot-Parser-Vinted-JS.svg?style=for-the-badge
 
-[license-url]: https://github.com/jabibamman/Bot-Vinted-URL-PARSER-JS/blob/main/LICENSE
+[license-url]: https://github.com/jabibamman/Bot-Parser-Vinted-JS/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
