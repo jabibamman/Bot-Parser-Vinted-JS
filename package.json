@@ -11,7 +11,8 @@
     "node-fetch": "^2.6.7",
     "systeminformation": "^5.11.9",
     "ts-mixer": "^6.0.1",
-    "tslib": "^2.3.1",
+    "tslib": "^2.3.1"
+
   },
   "scripts": {
     "test": "jest"
